@@ -37,7 +37,7 @@
 
 ## :rocket: Sobre
 
-Repositório contendo o código feito nas aulas do GoStack Bootcamp da Rocketseat sobre Primeiro Projeto com Node.js
+Repositório contendo o código feito nas aulas do [GoStack Bootcamp da Rocketseat](https://rocketseat.com.br/) sobre Primeiro Projeto com Node.js
 
 Aqui foi visto como configurar um projeto do total zero utilizando Node.js e TypeScript, incluindo ferramentas como EditorConfig, ESLint e Prettier.
 
